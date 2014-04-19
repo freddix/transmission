@@ -1,11 +1,11 @@
 Summary:	Lightweight BitTorrent client
 Name:		transmission
-Version:	2.77
+Version:	2.82
 Release:	1
 License:	MIT
 Group:		X11/Applications
-Source0:	http://download.m0k.org/transmission/files/%{name}-%{version}.tar.bz2
-# Source0-md5:	b75fd5d69ac88e093d25c469183e7f7a
+Source0:	http://download.m0k.org/transmission/files/%{name}-%{version}.tar.xz
+# Source0-md5:	a5ef870c0410b12d10449c2d36fa4661
 BuildRequires:	gtk+3-devel
 BuildRequires:	libevent-devel
 BuildRequires:	openssl-devel
